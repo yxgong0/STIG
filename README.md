@@ -19,11 +19,11 @@ To train a new model, simply execute python train.py --data_path {train_data_pat
 To test a trained model, you need to explore and execute generate.py.
 
 ## Citation
-@article{gong2020generating,
-  title={Generating Text Sequence Images for Recognition},
-  author={Gong, Yanxiang and Deng, Linjie and Ma, Zheng and Xie, Mei},
-  journal={Neural Processing Letters},
-  pages={1--12},
-  year={2020},
-  publisher={Springer}
-}
+    @article{gong2020generating,
+      title={Generating Text Sequence Images for Recognition},
+      author={Gong, Yanxiang and Deng, Linjie and Ma, Zheng and Xie, Mei},
+      journal={Neural Processing Letters},
+      pages={1--12},
+      year={2020},
+      publisher={Springer}
+    }
